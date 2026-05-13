@@ -1,4 +1,4 @@
-# 
+# professional Panel for Inkscape for macOS - vector export and non-destructive editing is the best Inkscape for macOS panel, featuring vector export and non-destructive editing.
 
 
 
